@@ -1,1 +1,3 @@
 #To add file/filetypes which will be ignored
+/Ex1/out/
+*.pyc
